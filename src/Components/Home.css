@@ -1,0 +1,12 @@
+.home{
+    background-color: #170524;
+    background-image: url('./icons/BG\ Arc.png');
+    object-fit: cover;
+}
+.home-header{
+    font-weight: 900;
+}
+.demo-btn{
+    color: white;
+    background: linear-gradient(to right,#a80652,#c782c2);
+}
